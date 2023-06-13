@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color:#D89A4C;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size:20px;
+	line-height: 18px;
+	width:600px;
+	background-color: antiquewhite;
+	padding: 22px;
+}
+.paragraf_2 {color:darkcyan;background-color:rgba(255, 255, 255, 0.5)}
+.novi_blok { background-color:rgba(255, 255, 255, 0.5);
+ padding:20px;
+ margin:20px;
+ width:50%
+ }
+ h1, h2 {color:#D89A4C;
+ font-size:40px;
+ }
+.pozadina{
+	background-image: url(Slike/PozadinskaSlika.jpg);
+	}
+	.drugapozadina{
+		background-image:url(Slike/PozadinskaSlikaOMeni.jpg);
+	}
+	a:link{
+	color:#F7B043 ;
+	background-color:#F8E393 ;
+	padding: 5px;
+	line-height:40px;
+	border:1px solid #000000;
+	}
+	a:hover{
+	background-color: #E8CE74;
+	}
+	img {
+		height:200px;
+	}
+	.pozadinavideo{
+		background-image:url(Slike/PozadinskaSlikaVideo.jpg) }
